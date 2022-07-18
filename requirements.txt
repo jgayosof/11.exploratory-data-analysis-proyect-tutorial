@@ -1,6 +1,6 @@
 # Base ----------------------------------------
-sqlalchemy==1.4.37
-pymysql==1.0.2
+#sqlalchemy==1.4.37
+#pymysql==1.0.2
 pandas==1.4.2
 python-dotenv==0.20.0
 psycopg2-binary==2.9.3
@@ -11,6 +11,7 @@ opencv-python>=4.1.2
 matplotlib>=3.2.2
 ipyleaflet>=0.14.0
 sympy>=1.10.1
+seaborn
 
 # Machine learning ----------------------------
 sklearn
